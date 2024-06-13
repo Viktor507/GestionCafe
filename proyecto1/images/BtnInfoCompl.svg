@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 170.613 500 123.743" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(0.266548, -0.001339, 0.001253, 0.249337, 330.431768, 373.15241)" style="">
+    <g transform="matrix(0.684922, 0, 0, 0.678222, -1129.868286, -717.284912)" style="">
+      <g id="XMLID_36_">
+        <g>
+          <polygon style="fill:#AFB6BB;" points="480,335 480,370 10,370 10,335 25,335 465,335 &#9;&#9;&#9;&#9;"/>
+          <rect x="200" y="10" style="fill:#AFB6BB;" width="90" height="35"/>
+          <polygon style="fill:#FFFFFF;" points="465,45 465,335 25,335 25,45 200,45 290,45 &#9;&#9;&#9;&#9;"/>
+        </g>
+        <path style="fill:#231F20;" d="M480,325h-5V45c0-5.523-4.477-10-10-10H300V10c0-5.523-4.477-10-10-10h-90 c-5.523,0-10,4.477-10,10v25H25c-5.523,0-10,4.477-10,10v280h-5c-5.523,0-10,4.477-10,10v35c0,5.523,4.477,10,10,10h152.338 l-50.913,84.855l17.149,10.29L185.662,380H235v110h20V380h49.338l57.087,95.145l17.149-10.29L327.662,380H480 c5.523,0,10-4.477,10-10v-35C490,329.477,485.523,325,480,325z M210,20h70v15h-70V20z M35,55h420v270H35V55z M470,360H20v-15h450 V360z"/>
+      </g>
+    </g>
+    <g id="XMLID_35_" transform="matrix(0.658953, 0, 0, 0.634303, -1126.741455, -700.765564)" style="">
+      <g>
+        <path style="fill:#AFB6BB;" d="M260,190h-90v-90C219.7,100,260,140.3,260,190z"/>
+        <path style="fill:#43B05C;" d="M260,190c0,49.7-40.3,90-90,90s-90-40.3-90-90s40.3-90,90-90v90H260z"/>
+      </g>
+      <path style="fill:#231F20;" d="M170,90c-55.14,0-100,44.86-100,100s44.86,100,100,100s100-44.86,100-100S225.14,90,170,90z M249.353,180H180v-69.353C216.128,115.176,244.824,143.872,249.353,180z M170,270c-44.112,0-80-35.888-80-80 c0-40.724,30.593-74.413,70-79.353V190c0,5.523,4.477,10,10,10h79.353C244.413,239.407,210.724,270,170,270z"/>
+    </g>
+    <g transform="matrix(0.658953, 0, 0, 0.634303, -1126.741455, -700.765564)" style="">
+      <rect x="345" y="130" style="fill:#231F20;" width="70" height="20"/>
+    </g>
+    <g transform="matrix(0.658953, 0, 0, 0.634303, -1126.741455, -700.765564)" style="">
+      <rect x="345" y="160" style="fill:#231F20;" width="70" height="20"/>
+    </g>
+    <g transform="matrix(0.658953, 0, 0, 0.634303, -1126.741455, -700.765564)" style="">
+      <rect x="345" y="190" style="fill:#231F20;" width="70" height="20"/>
+    </g>
+    <g transform="matrix(0.658953, 0, 0, 0.634303, -1126.741455, -700.765564)" style="">
+      <rect x="345" y="100" style="fill:#231F20;" width="45" height="20"/>
+    </g>
+    <g transform="matrix(0.658953, 0, 0, 0.634303, -1126.741455, -700.765564)" style="">
+      <path style="fill:#231F20;" d="M272.071,132.071l-14.143-14.143l15-15c1.875-1.875,4.419-2.929,7.071-2.929h45v20h-40.858 L272.071,132.071z"/>
+    </g>
+    <g transform="matrix(0.658953, 0, 0, 0.634303, -1126.741455, -700.765564)" style="">
+      <rect x="310" y="235" style="fill:#231F20;" width="115" height="20"/>
+    </g>
+    <g transform="matrix(0.658953, 0, 0, 0.634303, -1126.741455, -700.765564)" style="">
+      <rect x="280" y="270" style="fill:#231F20;" width="145" height="20"/>
+    </g>
+    <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" transform="matrix(3.042146, 0.016337, -0.015288, 3.252136, -340.609314, -988.74884)"> </text>
+    <g style="isolation: isolate;" transform="matrix(1.643489, 0.008825, -0.013337, 2.83713, -559.611145, -987.397522)">
+      <text dx="0" dy="0" font-family="&quot;eUB1W3PhvLq1:::Concert One&quot;" font-size="14" font-weight="400" transform="matrix(6.918568 0 0 4.818114-44.05125 176.427143)" fill="#fff" stroke-width="0" style="white-space: pre;"><tspan y="0" font-weight="400" stroke-width="0">
+Info.Completa 
+</tspan></text>
+    </g>
+    <rect width="176.433337" height="133.117368" rx="28" ry="28" transform="matrix(3.428883, 0.02733, -0.033105, 4.745552, -2146.826137, -594.413137)" paint-order="stroke fill markers" fill="#16171a" stroke-width="0" stroke-linejoin="round"/>
+  </g>
+</svg>

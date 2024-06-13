@@ -1,0 +1,290 @@
+table {
+	width:80%;
+	border:2px solid;
+    color: #f1f1f1;
+    font-family:Verdana;
+    /* background-color: aqua;*/
+   
+}
+
+h1{
+    color: #f1f1f1;
+}
+
+h2{
+    color: #f1f1f1;
+}
+
+body{
+    background-color: #015a96;
+    /*  background-color: #0096C7;*/
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+/* .btn1{
+    margin-bottom: 20px;
+   /* font-family:fantasy;
+    font-size: 20px;   
+    border: 5px outset #03045E;
+    display: block;
+    width: 20%;
+    height: 20%;
+    background-color: #0077B6;    
+    text-align: center;
+}
+*/
+.btn1,a{
+    padding: 4px;
+    text-align: center; 
+    background-image: none;
+    text-decoration-line:none;
+    color: rgb(255, 255, 255);
+
+}
+
+td {
+    padding: 4px;
+    text-align: center;
+}
+
+tr {
+    align-content: center;
+}
+ /*
+input  {
+    width: 20px;
+    text-align: left;
+    padding: 2px;
+    margin-right: 3px;
+  /* background-color: rgb(177, 15, 15); 
+    color: black;
+   
+}
+ */
+
+select {
+   /* width: 150px;
+    height: 24px;
+     background-color: #0077B6
+    */
+    font-family: verdana;
+    text-align: center;
+    border:2px solid;
+    width: 15%;
+  
+    
+    padding: 10px 10px ;
+    border: none;
+   border-radius: 4px;
+   background-color: #f1f1f1;
+}
+
+.button{
+    
+    
+    font-family:fantasy;
+    background-color: #04bfbf;   
+    display: inline-flex;
+    height: 60px;
+    padding: 0 100px 0 100px;   
+    border: 5px outset #006262;
+    outline: none;
+    border-radius: 5px;
+    overflow: hidden;
+    font-size: 25px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-bottom: 8px;
+    margin-top: 25px;
+
+}
+.button:hover{
+   /* background-color:#015f92 ;*/
+    background-color: #039191;
+}
+.button__text, .button__icon{
+    display: inline-flex;
+    align-items: center;
+    padding: 0 5px ;
+    height: 100%;
+    color: #f1f1f1;
+}
+
+
+
+.regis {
+
+    font-family:Verdana;
+    font-size: 20px; 
+
+    
+    
+    border: 2px solid #74c7f3;
+    border-radius: 25px;
+
+    padding-top: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
+
+    background-color: #0077B6;   
+
+    width: 50%;
+    height: 40%;
+}
+.regis p{
+    color: #f1f1f1;
+    font-size: 25px;
+}
+
+.tab {
+
+    font-family:Verdana;
+    font-size: 20px; 
+
+    border: 2px solid #74c7f3;
+    border-radius: 25px;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+   
+    margin-bottom: 10px;
+
+    background-color: #0077B6;   
+
+    width: 60%;
+    height: 40%;
+}
+
+.tit{
+
+    font-family:Verdana;
+    font-size: 20px; 
+     
+    border: 2px solid #67c1f2;
+    border-radius: 25px;
+
+    padding-top: 20px;
+    
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+    padding: 10px;
+
+    background-color: #0077B6;   
+
+    width: 50%;
+    height: 40%;
+}
+
+input[type=text] {
+    padding:5px; 
+    width: 15%;
+    font-family: verdana;
+    font-size: 15px;  
+
+    border:2px solid #ccc; 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+select{
+    width: 20%;
+}
+
+input[type=number] {
+    font-family: verdana;
+    font-size: 15px;  
+    padding:5px; 
+    width: 10%;
+    height: 15%;
+    border:2px solid #ccc; 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+
+.sep{
+    margin-bottom: 20px;
+}
+
+.aviso p{
+    color:#f1f1f1;
+    font-family: verdana;
+    margin-top: 3%;
+    font-size: 20px;
+}
+
+/*
+.btn1 img.resize{
+    max-width: 50%; max-height: 50%; }
+    */
+     
+
+ input[type=image] {
+        width: 300px;
+        height: 60px;
+        background-color: #04bfbf;  
+        border: 5px outset #006262;
+        border-radius: 10px;
+     margin-bottom: 10px;
+       
+           
+}
+input[type=image]:hover{
+     background-color: #039191;
+ }
+
+ .regis input[type=image] {
+    width: 300px;
+    height: 50px;
+    background-color: #04bfbf;  
+    border: 5px outset #006262;
+    border-radius: 10px;
+   
+       
+}
+
+.regis input[type=image]:hover{
+    background-color: #039191;
+}
+
+
+th,td{
+    border: solid 1px black;
+    padding: 8px;
+
+
+}
+th{
+    background-color: #008685;
+}
+tr:hover{
+    background-color: #008685;
+}
+
+.cab{
+    display: inline-block;
+    background-color: #071f41;
+    height: 80px;
+    width: 100%;
+
+    margin: 0;
+    padding: 0;
+    margin-bottom: 5px;
+}
+
+.margen{
+    margin-left: 50px;
+    padding-left: 0px;
+}
+
+.imglogo{
+    padding: 6px;
+    margin: 5px;
+    float:left;
+}
+
+.imglogo img{
+    width: 60px;
+    height: 60px;
+}
